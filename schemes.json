@@ -1,0 +1,303 @@
+[
+  {
+    "id": "e-shram",
+    "name": "e-Shram",
+    "full_name": "e-Shram Portal (National Database of Unorganised Workers)",
+    "category": "worker",
+    "level": "central",
+    "benefit": "Free registration gives a 12-digit Universal Account Number (UAN) e-Shram card and one-stop access to welfare schemes like PM-SYM pension, PMSBY and PMJJBY insurance, ration portability (ONORC) and job/skilling portals.",
+    "eligibility": [
+      "Age 16 years or above",
+      "Works in the unorganised sector: gig/platform worker, street vendor, domestic, construction, agricultural, migrant, home-based or self-employed worker",
+      "Organised-sector workers also qualify if not in EPFO/ESIC and not a government employee"
+    ],
+    "exclusions": [
+      "Income tax payers",
+      "Members of EPFO or ESIC",
+      "Government employees"
+    ],
+    "age_min": 16,
+    "age_max": null,
+    "documents": [
+      "Aadhaar number (for e-KYC)",
+      "Mobile number (preferably Aadhaar-linked)",
+      "Bank account details"
+    ],
+    "how_to_apply": "Self-register free on the e-Shram portal with Aadhaar OTP, or visit the nearest Common Service Centre (CSC) / State Seva Kendra. No fee is charged.",
+    "apply_url": "https://register.eshram.gov.in/#/user/self",
+    "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2303053",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": null
+  },
+  {
+    "id": "pm-sym",
+    "name": "PM-SYM",
+    "full_name": "Pradhan Mantri Shram Yogi Maan-dhan",
+    "category": "pension",
+    "level": "central",
+    "benefit": "Assured pension of Rs 3,000 per month after age 60; you pay Rs 55 to Rs 200 per month (by joining age) and the Central Government adds an equal amount. Spouse gets 50% as family pension after the subscriber's death.",
+    "eligibility": [
+      "Unorganised worker aged 18 to 40 at entry",
+      "Monthly income Rs 15,000 or less",
+      "Has a savings bank or Jan Dhan account and a mobile phone"
+    ],
+    "exclusions": [
+      "Income tax payers",
+      "Organised-sector workers",
+      "Members of EPFO, NPS or ESIC"
+    ],
+    "age_min": 18,
+    "age_max": 40,
+    "documents": [
+      "Aadhaar",
+      "Savings bank / Jan Dhan passbook",
+      "Mobile number"
+    ],
+    "how_to_apply": "Visit the nearest CSC, pay the first contribution in cash and sign the auto-debit mandate to get a Shram Yogi card; or self-register on maandhan.in or via the e-Shram portal. Helpline 1800 267 6888.",
+    "apply_url": "https://maandhan.in/",
+    "source_url": "https://www.labour.gov.in/offerings/schemes-and-services/details/pm-sym-QTOzATMtQWa",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": 15000
+  },
+  {
+    "id": "pmjjby",
+    "name": "PMJJBY",
+    "full_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana",
+    "category": "insurance",
+    "level": "central",
+    "benefit": "Life insurance of Rs 2 lakh to the nominee on death due to any cause, for a premium of Rs 436 per year auto-debited from your bank/post office account (cover year 1 June to 31 May).",
+    "eligibility": [
+      "Age 18 to 50 years",
+      "Has an individual bank or post office savings account",
+      "Gives consent for auto-debit"
+    ],
+    "exclusions": [
+      "Can join through only one bank/post office account",
+      "Cover ends at age 55",
+      "30-day lien (waiting) period from enrolment",
+      "Cover lapses if account is closed or has insufficient balance on renewal"
+    ],
+    "age_min": 18,
+    "age_max": 50,
+    "documents": [
+      "Aadhaar",
+      "Bank / post office savings account",
+      "Consent-cum-declaration form"
+    ],
+    "how_to_apply": "Submit the consent-cum-declaration form at your bank branch or post office, or enrol through net banking. Late joiners pay a reduced pro-rata premium (Rs 342 / 228 / 114 by quarter).",
+    "apply_url": "https://www.jansuraksha.gov.in/",
+    "source_url": "https://www.jansuraksha.gov.in/Files/PMJJBY/English/Rules.pdf",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": null
+  },
+  {
+    "id": "pmsby",
+    "name": "PMSBY",
+    "full_name": "Pradhan Mantri Suraksha Bima Yojana",
+    "category": "insurance",
+    "level": "central",
+    "benefit": "Accident insurance for Rs 20 per year: Rs 2 lakh on accidental death or total permanent disability, Rs 1 lakh on partial permanent disability (loss of one eye, hand or foot).",
+    "eligibility": [
+      "Age 18 to 70 years",
+      "Has an individual bank or post office savings account",
+      "Gives consent for auto-debit"
+    ],
+    "exclusions": [
+      "Can join through only one bank/post office account",
+      "Cover ends at age 70",
+      "Cover lapses if account is closed or has insufficient balance on renewal"
+    ],
+    "age_min": 18,
+    "age_max": 70,
+    "documents": [
+      "Aadhaar",
+      "Bank / post office savings account",
+      "Enrolment form"
+    ],
+    "how_to_apply": "Submit the enrolment form at your bank branch or post office, or enrol through net banking; premium is auto-debited each year around 1 June. Toll-free 1800-180-1111 / 1800-110-001.",
+    "apply_url": "https://www.jansuraksha.gov.in/",
+    "source_url": "https://www.jansuraksha.gov.in/Files/PMSBY/English/Rules.pdf",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": null
+  },
+  {
+    "id": "apy",
+    "name": "Atal Pension Yojana",
+    "full_name": "Atal Pension Yojana (APY)",
+    "category": "pension",
+    "level": "central",
+    "benefit": "Guaranteed pension of Rs 1,000, 2,000, 3,000, 4,000 or 5,000 per month from age 60 (you choose), then the same pension to the spouse, and the saved corpus to the nominee after both die.",
+    "eligibility": [
+      "Age 18 to 40 years at joining",
+      "Has a bank or post office savings account",
+      "Contributes monthly, quarterly or half-yearly by auto-debit until age 60"
+    ],
+    "exclusions": [
+      "Anyone who is or has been an income tax payer (from 1 Oct 2022)"
+    ],
+    "age_min": 18,
+    "age_max": 40,
+    "documents": [
+      "Bank / post office savings account (KYC taken from it)",
+      "Aadhaar",
+      "Mobile number"
+    ],
+    "how_to_apply": "Submit the APY form at your bank branch or post office, or join online via net banking or the eNPS/e-APY portal. Helpline 1800-110-069.",
+    "apply_url": "https://enps.nsdl.com/eNPS/NationalPensionSystem.html",
+    "source_url": "https://jansuraksha.gov.in/Files/APY/ENGLISH/APY.pdf",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": null
+  },
+  {
+    "id": "pm-jay",
+    "name": "Ayushman Bharat PM-JAY",
+    "full_name": "Ayushman Bharat - Pradhan Mantri Jan Arogya Yojana (incl. Ayushman Vay Vandana for 70+)",
+    "category": "health",
+    "level": "central",
+    "benefit": "Free cashless hospital treatment up to Rs 5 lakh per family per year at empanelled government and private hospitals across India; pre-existing diseases covered from day one. All seniors aged 70+ get their own Rs 5 lakh cover (Vay Vandana card) regardless of income.",
+    "eligibility": [
+      "Families listed under SECC 2011 deprivation criteria, e.g. landless manual-labour households, SC/ST households, kutcha one-room houses, no adult earning member",
+      "Urban workers in listed occupations: ragpicker, domestic worker, street vendor, construction worker, sanitation worker, home-based worker, driver/transport worker, shop/delivery helper, electrician/mechanic, washerman/chowkidar",
+      "Any senior citizen aged 70 or above, irrespective of income (Ayushman Vay Vandana card)",
+      "No limit on family size or age"
+    ],
+    "exclusions": [
+      "Non-70+ households owning a motor vehicle, mechanised farm equipment, a pucca house, or 5+ acres of land",
+      "Non-70+ households with a government employee or a member earning above Rs 10,000/month",
+      "Seniors under CGHS, ECHS or CAPF must choose either that scheme or PM-JAY"
+    ],
+    "age_min": null,
+    "age_max": null,
+    "documents": [
+      "Aadhaar",
+      "Ration card or family ID",
+      "Mobile number"
+    ],
+    "how_to_apply": "Check eligibility and get the Ayushman card at a CSC or empanelled hospital (Arogya Mitra), or online via the PM-JAY portal / UMANG. Seniors 70+ can enrol for the Vay Vandana card the same way using Aadhaar.",
+    "apply_url": "https://pmjay.gov.in/",
+    "source_url": "https://www.pib.gov.in/PressReleseDetailm.aspx?PRID=2149693",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": null
+  },
+  {
+    "id": "pm-kisan",
+    "name": "PM-KISAN",
+    "full_name": "Pradhan Mantri Kisan Samman Nidhi",
+    "category": "farmer",
+    "level": "central",
+    "benefit": "Rs 6,000 per year to each eligible farmer family, paid as three instalments of Rs 2,000 directly into the Aadhaar-seeded bank account (23rd instalment released June 2026).",
+    "eligibility": [
+      "Landholding farmer family with cultivable land in their name",
+      "e-KYC completed and Aadhaar-seeded bank account"
+    ],
+    "exclusions": [
+      "Institutional landholders",
+      "Families with a current/former constitutional post holder, minister, MP, MLA, MLC, mayor or district panchayat chairperson",
+      "Serving/retired government or PSU employees (except Group D/MTS)",
+      "Pensioners getting Rs 10,000+ per month (except Group D/MTS)",
+      "Anyone who paid income tax in the last assessment year",
+      "Practising doctors, engineers, lawyers, CAs and architects"
+    ],
+    "age_min": null,
+    "age_max": null,
+    "documents": [
+      "Aadhaar",
+      "Land ownership papers",
+      "Savings bank account"
+    ],
+    "how_to_apply": "Register on pmkisan.gov.in via 'New Farmer Registration' with Aadhaar OTP, or at the nearest CSC; complete e-KYC. Check status on the portal's Beneficiary Status page.",
+    "apply_url": "https://pmkisan.gov.in/RegistrationFormupdated.aspx",
+    "source_url": "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": null
+  },
+  {
+    "id": "ignwps",
+    "name": "Widow Pension (IGNWPS)",
+    "full_name": "Indira Gandhi National Widow Pension Scheme (NSAP)",
+    "category": "pension",
+    "level": "central",
+    "benefit": "Central pension of Rs 300 per month for widows aged 40-79 and Rs 500 per month from age 80, paid by DBT; states add their own top-up, so the actual amount varies by state.",
+    "eligibility": [
+      "Widow aged 40 years or above",
+      "Belongs to a Below Poverty Line (BPL) household"
+    ],
+    "exclusions": [
+      "Pension stops on remarriage",
+      "Pension stops if the household moves above the poverty line"
+    ],
+    "age_min": 40,
+    "age_max": null,
+    "documents": [
+      "Husband's death certificate",
+      "BPL / ration card",
+      "Age proof",
+      "Aadhaar",
+      "Bank / post office passbook"
+    ],
+    "how_to_apply": "Apply at the Gram Panchayat or Block office (rural) or Municipality (urban); applications are verified and sanctioned locally. Online application is also possible via UMANG (search NSAP).",
+    "apply_url": "https://nsap.dord.gov.in/",
+    "source_url": "https://nsap.dord.gov.in/Guidelines/wps.pdf",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": null
+  },
+  {
+    "id": "ignoaps",
+    "name": "Old Age Pension (IGNOAPS)",
+    "full_name": "Indira Gandhi National Old Age Pension Scheme (NSAP)",
+    "category": "pension",
+    "level": "central",
+    "benefit": "Central pension of Rs 200 per month for ages 60-79 and Rs 500 per month from age 80, paid by DBT; states add a top-up, so actual pensions vary by state.",
+    "eligibility": [
+      "Age 60 years or above",
+      "Belongs to a Below Poverty Line (BPL) household",
+      "Indian citizen"
+    ],
+    "exclusions": [],
+    "age_min": 60,
+    "age_max": null,
+    "documents": [
+      "Age proof",
+      "Aadhaar",
+      "BPL / ration card",
+      "Bank / post office passbook",
+      "Passport-size photo",
+      "Residence proof"
+    ],
+    "how_to_apply": "Apply at the Gram Panchayat or Block office (rural) or Municipality (urban), or online via UMANG (search NSAP).",
+    "apply_url": "https://nsap.dord.gov.in/",
+    "source_url": "https://nsap.dord.gov.in/",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": null
+  },
+  {
+    "id": "pm-svanidhi",
+    "name": "PM SVANidhi",
+    "full_name": "PM Street Vendor's AtmaNirbhar Nidhi",
+    "category": "business",
+    "level": "central",
+    "benefit": "Collateral-free working capital loans for street vendors: Rs 15,000, then Rs 25,000, then Rs 50,000 on timely repayment, with 7% yearly interest subsidy, digital-payment cashback up to Rs 1,600, and a UPI RuPay credit card (up to Rs 30,000) after repaying the 2nd loan. Lending open till March 2030.",
+    "eligibility": [
+      "Street vendor in an urban area (vegetables, fruits, street food, barber, cobbler, laundry etc.)",
+      "Has a Certificate of Vending / ID card from the Urban Local Body, or was identified in the ULB survey",
+      "Or has a Letter of Recommendation (LoR) from the ULB / Town Vending Committee, including peri-urban/rural vendors selling within city limits"
+    ],
+    "exclusions": [
+      "Next loan only after timely repayment of the previous one",
+      "Interest subsidy only on standard (non-NPA) loan accounts"
+    ],
+    "age_min": null,
+    "age_max": null,
+    "documents": [
+      "Certificate of Vending / ID card or Letter of Recommendation",
+      "Aadhaar (mobile linked)",
+      "Voter ID / Driving licence / MGNREGA card / PAN",
+      "Bank account details"
+    ],
+    "how_to_apply": "Apply on the PM SVANidhi portal or mobile app with Aadhaar-linked mobile OTP, or with help from your Urban Local Body / CSC. Toll-free 1800111979.",
+    "apply_url": "https://pmsvanidhi.mohua.gov.in/",
+    "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2267102",
+    "verified_on": "2026-10-17",
+    "income_max_monthly": null
+  }
+]
